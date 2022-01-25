@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riyaz1203
+- 👋 Hi, I’m @Mohammed Riyaz
 - 👀 I’m interested in developing apps and website
 - 🌱 I’m currently learning 2nd year B.E CSE
 - 💞️ I’m looking to collaborate on developing apps and website
