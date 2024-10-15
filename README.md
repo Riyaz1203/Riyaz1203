@@ -1,8 +1,6 @@
 👋 Welcome to my GitHub profile!
 
-👨‍💻 I am a passionate web developer with 1 year of experience in creating amazing websites. My goal is to craft exceptional digital experiences that not only captivate users but also drive meaningful results.
-
-🏢 As a co-founder of Crayont, a dynamic agency committed to delivering innovative solutions, I collaborate with talented individuals to turn ideas into reality. Together, we combine our expertise in design, development, and strategy to create unique and impactful online experiences.
+👨‍💻 I am a passionate web developer with 2 year of experience in creating amazing websites. My goal is to craft exceptional digital experiences that not only captivate users but also drive meaningful results.
 
 💡 Constantly seeking new challenges, I thrive in dynamic environments that push the boundaries of what's possible. I have a strong command of modern web technologies and frameworks, allowing me to build efficient, responsive, and user-friendly websites.
 
